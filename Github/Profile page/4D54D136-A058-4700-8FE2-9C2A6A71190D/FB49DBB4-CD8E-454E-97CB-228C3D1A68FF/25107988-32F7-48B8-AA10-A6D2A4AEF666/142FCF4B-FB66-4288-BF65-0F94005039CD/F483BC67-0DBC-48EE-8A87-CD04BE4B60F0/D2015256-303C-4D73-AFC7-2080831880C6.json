@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C06B062B-7503-429B-A04F-1A0AC82DC58A",
+  "do_objectID": "D2015256-303C-4D73-AFC7-2080831880C6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 2,
-    "width": 2,
-    "x": 92,
-    "y": 9
+    "constrainProportions": false,
+    "height": 42,
+    "width": 42,
+    "x": 238,
+    "y": 191
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,16 +28,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Divider",
+  "name": "btn / 40-lg / icon",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "33F500DB-CE70-44DF-B1B1-13C28400566D/9ED51CA5-936E-47CA-BCFA-B988323A6F96_layerStyle",
-      "value": "28E3D179-6089-4CEB-8FA4-61C8B4A2E22E"
+      "overrideName": "E365F03D-9301-4F09-860C-3B5427A2761E_symbolID",
+      "value": "576C0E04-2E1E-40E7-86BA-6ABE728003DE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E365F03D-9301-4F09-860C-3B5427A2761E/07F7EF4A-E30B-481E-9966-54131FA3B900_layerStyle",
+      "value": "7B1061C6-A874-4132-BB7E-D407F507ECF0"
     }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -76,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A9A6ED87-55DB-4B71-BD3E-AF682F60AC78",
+    "do_objectID": "C5E23B6B-B48C-4B37-A44A-00E12EABFD42",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,27 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2A1D8BC5-1ADA-4661-87D9-612BD066BE28",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 3,
-            "enabled": 1,
-            "modelID": "constraint_dc3eda01-11b0-46a5-9eac-bd155272d66b",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 3
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_7e16e6d7-e855-43b5-b3c2-57de066160fa",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0,
-          "scaleFactor": 1
-        }
-      }
-    }
-  },
+  "symbolID": "92F75217-410A-4C83-883D-3B590A0E53C1",
   "verticalSpacing": 0
 }

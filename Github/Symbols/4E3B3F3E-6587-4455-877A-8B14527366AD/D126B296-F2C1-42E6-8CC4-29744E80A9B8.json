@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 4,
-    "width": 1,
-    "x": 206,
-    "y": 8
+    "constrainProportions": true,
+    "height": 2,
+    "width": 2,
+    "x": 177,
+    "y": 9
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,11 @@
   "name": "Divider",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "33F500DB-CE70-44DF-B1B1-13C28400566D/9ED51CA5-936E-47CA-BCFA-B988323A6F96_layerStyle",
+      "value": "28E3D179-6089-4CEB-8FA4-61C8B4A2E22E"
+    }
   ],
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -83,6 +88,27 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A31279C2-1DC7-44A5-B3D9-F35AE09D6B5C",
+  "symbolID": "2A1D8BC5-1ADA-4661-87D9-612BD066BE28",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 3,
+            "enabled": 1,
+            "modelID": "constraint_d8a9691d-f4fd-448d-8399-05c5955c1333",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 3
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_71bb208f-82cf-4263-b4a5-00641ae5da7b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
   "verticalSpacing": 0
 }

@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 129,
+    "width": 131,
     "x": 0,
     "y": 0
   },
@@ -40,6 +40,11 @@
       "_class": "overrideValue",
       "overrideName": "65D726EC-B7D6-4754-84B6-8DBFBA92B498_stringValue",
       "value": "My team here"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65D726EC-B7D6-4754-84B6-8DBFBA92B498_textStyle",
+      "value": "906115BF-64F2-4F56-B8C5-9BBCE4273BC8"
     }
   ],
   "resizingConstraint": 9,

@@ -16,29 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Inter-Bold",
-              "size": 14
+              "name": "Inter-Regular",
+              "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18,
-            "paragraphSpacing": 6
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "paragraphSpacing": 8
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "14"
+    "string": "Display name here"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1A9F0955-569C-4649-8CA8-4CB8C4F9CBD3",
+  "do_objectID": "DD777AA0-1FA7-4F90-BBA3-195318DFBCBA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 17,
+    "height": 24,
+    "width": 280,
     "x": 0,
-    "y": 0
+    "y": 40
   },
-  "glyphBounds": "{{0, 3}, {16, 12}}",
+  "glyphBounds": "{{1, 5}, {155, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,12 +66,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Follwing",
-  "nameIsFixed": true,
-  "resizingConstraint": 46,
+  "name": "Display name here",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "02D58008-E324-48EE-A460-324FB42F18F5",
+  "sharedStyleID": "E98B726E-A9C3-4959-BBB8-55D831ED087C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -105,9 +105,9 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.7
     },
-    "do_objectID": "237E6143-F3D3-4D80-BB0B-A010F13F77F7",
+    "do_objectID": "17F936D5-47BD-44D6-9468-3CAC19ED39C7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,16 +130,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Inter-Bold",
-            "size": 14
+            "name": "Inter-Regular",
+            "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 18,
-          "minimumLineHeight": 18,
-          "paragraphSpacing": 6
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
+          "paragraphSpacing": 8
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -147,7 +147,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

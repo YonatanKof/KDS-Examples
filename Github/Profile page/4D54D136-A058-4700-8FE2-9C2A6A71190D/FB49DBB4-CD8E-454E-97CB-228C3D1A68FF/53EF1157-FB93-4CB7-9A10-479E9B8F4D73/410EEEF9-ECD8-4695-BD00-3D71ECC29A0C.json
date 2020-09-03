@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1,
-            "green": 0.1,
-            "red": 0.1
+            "blue": 0.6509803921568628,
+            "green": 0.4,
+            "red": 0.09019607843137255
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Inter-Bold",
+              "name": "Inter-Regular",
               "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "maximumLineHeight": 18,
             "minimumLineHeight": 18,
             "paragraphSpacing": 6
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "14"
+    "string": "Customize your pins"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1A9F0955-569C-4649-8CA8-4CB8C4F9CBD3",
+  "do_objectID": "410EEEF9-ECD8-4695-BD00-3D71ECC29A0C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 17,
-    "x": 0,
-    "y": 0
+    "width": 135,
+    "x": 801,
+    "y": 5
   },
-  "glyphBounds": "{{0, 3}, {16, 12}}",
+  "glyphBounds": "{{0, 3}, {134, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,13 +65,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Follwing",
-  "nameIsFixed": true,
-  "resizingConstraint": 46,
+  "lineSpacingBehaviour": 3,
+  "name": "Customize your pins",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "02D58008-E324-48EE-A460-324FB42F18F5",
+  "sharedStyleID": "59EA719E-F1F3-45C2-BF8F-32AC67E1BCC9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "237E6143-F3D3-4D80-BB0B-A010F13F77F7",
+    "do_objectID": "D4C529FD-13C8-4C33-9792-07BF244A3442",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,20 +123,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1,
-          "green": 0.1,
-          "red": 0.1
+          "blue": 0.6509803921568628,
+          "green": 0.4,
+          "red": 0.09019607843137255
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Inter-Bold",
+            "name": "Inter-Regular",
             "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "maximumLineHeight": 18,
           "minimumLineHeight": 18,
           "paragraphSpacing": 6
