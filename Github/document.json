@@ -2,7 +2,14 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "do_objectID": "7E093A8F-EB2B-44C4-9B57-DAC64EC5B68B",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -16,8 +23,198 @@
   },
   "colorSpace": 0,
   "do_objectID": "b7ee28b7-598b-46f9-80ef-e87ef65f8702",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "069383F3-DAA1-4982-BE4D-E0653836F3D3",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0BD8A4E3-A22F-4119-9C31-03348E4E9057",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1D287985-EA06-493F-A49F-B41309F31481",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Bold.otf",
+      "options": 6,
+      "postscriptNames": [
+        "Inter-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "26851D8B-341F-4DF8-BCCE-32BAF7871C67",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "30085D80-111A-47AF-8B56-659189A1457B",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3DDDD512-7D8F-46D0-AE90-2C86B9427207",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "428B89F9-0E9D-4FDE-A581-D6F5F8BDC5FE",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5219C1BD-BCA8-423C-8FCF-8C56A148331D",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6B1838D6-2760-4B92-BFB8-8B6FD78D6D5D",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "722C5367-9D00-4490-881A-742706DF00DC",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "761B01C9-436B-4657-934C-6F4E165538E5",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-SemiBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7BA3D7FA-51D5-4CED-8D37-C575FC1D2D59",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic-BETA.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalicBETA"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "933E17BD-866F-4C3E-8201-8BC7616577C0",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A408EC75-1667-4B03-BC9A-FE46F9D5A379",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraLightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ABB5D68E-2DCB-4ADB-BB43-426DB6B965BB",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Regular.otf",
+      "options": 6,
+      "postscriptNames": [
+        "Inter-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AE00A98B-276B-40DB-8F33-841C719D9E76",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B304136F-C098-4384-8DED-FFF6CF5C3725",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CF0C1D0D-FA0D-4D02-8E20-FE4218A40B4D",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DFBD829F-63E6-4E1C-BFDC-DC321BDC1979",
+      "fontFamilyName": "Inter",
+      "fontFileName": "Inter-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Inter-ExtraBold"
+      ]
+    }
+  ],
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
@@ -4112,7 +4309,231 @@
       "remoteStyleID": "798DE90F-20C2-4201-B730-552FD25A7294",
       "sourceLibraryName": "KDS1-Atoms-Styles (Master @ c25e8cb)",
       "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "8367B3C6-812C-4D22-BD5D-BF7D75D97E89",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "9D61CEE0-41C6-473F-81A0-69FE4335EDBA[193221EB-A7C2-414D-8F21-49C862313631]",
+        "name": "general - color/system/opacity - 40 - low",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.13
+          },
+          "do_objectID": "6FAAF51F-A154-487A-9F37-BAA61EED9C5F",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1,
+                "green": 0.1,
+                "red": 0.1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "9D61CEE0-41C6-473F-81A0-69FE4335EDBA[193221EB-A7C2-414D-8F21-49C862313631]",
+      "sourceLibraryName": "1.1-KDS-Atoms-Styles",
+      "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "1C91438A-18F8-4A38-AF2C-F18321E09FC5",
+      "libraryID": "8daca94f-20f4-4694-a1e7-452c57a2e98d",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A31279C2-1DC7-44A5-B3D9-F35AE09D6B5C[193221EB-A7C2-414D-8F21-49C862313631]",
+        "name": "general - color/system/opacity - 40 - low",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.13
+          },
+          "do_objectID": "6FAAF51F-A154-487A-9F37-BAA61EED9C5F",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1,
+                "green": 0.1,
+                "red": 0.1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "A31279C2-1DC7-44A5-B3D9-F35AE09D6B5C[193221EB-A7C2-414D-8F21-49C862313631]",
+      "sourceLibraryName": "1.1-KDS-Atoms-Styles",
+      "symbolPrivate": true
     }
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
     {
@@ -5233,6 +5654,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "494D2F17-2C5D-4865-AC47-9AC29C4288F2",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -5251,6 +5681,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapePath",
@@ -5258,6 +5689,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "F15A1167-7F1E-4F7A-A81A-EBE4DCBBBA94",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -5273,6 +5713,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -5447,6 +5888,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "223F3A1E-D181-4377-AE9B-111013D5C90D",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -5462,6 +5912,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -5616,6 +6067,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "1085E769-E1C4-492C-8392-0C9EF233C5DB",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -5631,6 +6091,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -5785,6 +6246,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "F5E2BCFD-5281-4C20-B60C-38DBC1327DD4",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -5800,6 +6270,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -6958,6 +7429,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "392FA9ED-21B7-4263-B050-BAA166A64859",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -6976,6 +7456,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapePath",
@@ -6983,6 +7464,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "16A9D6C0-F1C7-44EE-A870-B15918D1BD03",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -6998,6 +7488,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -7192,6 +7683,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "A6ACDB01-1023-4A4D-95DE-CA5300559453",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7207,6 +7707,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -9596,6 +10097,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "25B89E34-A804-4A91-8C86-BAA17D3AFFBB",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -9614,12 +10124,22 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapeGroup",
                 "booleanOperation": 0,
                 "clippingMaskMode": 0,
                 "do_objectID": "362A320D-5D03-438D-B733-6D68C2251D36",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -9638,6 +10158,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 1,
                 "layers": [
                   {
                     "_class": "shapePath",
@@ -9645,6 +10166,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "1FC2A525-67E2-499E-BA48-A8F232A7F795",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -9660,6 +10190,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
+                    "layerListExpandedType": 0,
                     "name": "Path",
                     "nameIsFixed": false,
                     "pointRadiusBehaviour": 1,
@@ -9854,6 +10385,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "9D98ECA2-38B1-4877-BCD8-13602E184F87",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -9869,6 +10409,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
+                    "layerListExpandedType": 0,
                     "name": "Path",
                     "nameIsFixed": false,
                     "pointRadiusBehaviour": 1,
@@ -10129,6 +10670,15 @@
                 "booleanOperation": 0,
                 "clippingMaskMode": 0,
                 "do_objectID": "EC008C6A-83E8-47B9-BA58-4825565B7BA6",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -10147,6 +10697,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 1,
                 "layers": [
                   {
                     "_class": "shapePath",
@@ -10154,6 +10705,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "351C050D-CEAC-46A9-9D69-F7B444FA7E68",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -10169,6 +10729,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
+                    "layerListExpandedType": 0,
                     "name": "Path",
                     "nameIsFixed": false,
                     "pointRadiusBehaviour": 1,
@@ -10363,6 +10924,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "0DF5E13A-DAD6-4F82-8723-503A194C09E8",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -10378,6 +10948,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
+                    "layerListExpandedType": 0,
                     "name": "Path",
                     "nameIsFixed": false,
                     "pointRadiusBehaviour": 1,
@@ -10638,6 +11209,15 @@
                 "booleanOperation": 0,
                 "clippingMaskMode": 0,
                 "do_objectID": "3A47E2D6-6308-43F1-94F6-5665CEFDC4AA",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -10656,6 +11236,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 1,
                 "layers": [
                   {
                     "_class": "shapePath",
@@ -10663,6 +11244,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "9E4CC8CF-A3BE-4669-BCE2-49EBE3661BE3",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -10678,6 +11268,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
+                    "layerListExpandedType": 0,
                     "name": "Path",
                     "nameIsFixed": false,
                     "pointRadiusBehaviour": 1,
@@ -10872,6 +11463,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "2550DF7C-562F-4CEA-848C-E359F0BC171F",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -10887,6 +11487,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
+                    "layerListExpandedType": 0,
                     "name": "Path",
                     "nameIsFixed": false,
                     "pointRadiusBehaviour": 1,
@@ -13202,6 +13803,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "BBDA0FFB-B43B-46E6-BFFC-1A93A32CBA6F",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13220,6 +13830,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapePath",
@@ -13227,6 +13838,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "11BA5F99-9B2B-4D07-B1B2-7292A5DB85F8",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -13242,6 +13862,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -13864,6 +14485,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "7AD92054-42D4-4720-8F7B-B0AC2FBB36D2",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -13879,6 +14509,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -14011,6 +14642,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "1DA528DE-912B-4157-AC21-74615075D8EB",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -14026,6 +14666,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -14148,6 +14789,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "5527ED24-E69C-43BB-9D10-C951349D2870",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -14163,6 +14813,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -14295,6 +14946,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "9E9E2500-BCEC-4AC2-B6EB-F0CE4DB98901",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -14310,6 +14970,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -14532,6 +15193,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "6A57E687-5910-42DE-8389-43DAF2B5B443",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -14547,6 +15217,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -15336,6 +16007,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "BFC45E11-3256-475E-A1DB-CFB5755F7B69",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -15351,6 +16031,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG Icon",
             "nameIsFixed": false,
             "pointRadiusBehaviour": 1,
@@ -15948,6 +16629,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "44F523F0-2D62-4901-9BF2-1F8F00E3B02F",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -15963,6 +16653,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "state / Base / default",
             "nameIsFixed": false,
             "overrideValues": [
@@ -16701,6 +17392,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "07F7EF4A-E30B-481E-9966-54131FA3B900",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 256,
             "frame": {
               "_class": "rect",
@@ -16718,6 +17418,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -16880,6 +17581,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "43AD879E-976F-41FF-A00A-C9FDF06D46CC",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 256,
             "frame": {
               "_class": "rect",
@@ -16897,6 +17607,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -17622,6 +18333,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "4C4D3CF8-AF01-4343-AC4A-3DAA44902559",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -17637,6 +18357,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "→ State",
             "nameIsFixed": true,
             "overrideValues": [
@@ -17737,6 +18458,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "79CE27E9-71CF-4B49-A0A0-7056B253EF4B",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -17752,6 +18482,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
             "name": "Text",
             "nameIsFixed": true,
@@ -18348,6 +19079,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "FC499F9B-3377-495A-834C-D6F46959DD6B",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -18363,6 +19103,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "→ State",
             "nameIsFixed": true,
             "overrideValues": [
@@ -18426,6 +19167,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "F06B3A7A-8702-4FE2-B04A-36A1ABFDA2FC",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -18441,6 +19191,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Text & Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -19088,6 +19839,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "E41D5760-B2AC-4DC2-94A2-636A89E5366F",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -19103,6 +19863,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -19224,6 +19985,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "B59406BD-A580-4F03-B340-BD52C4CB85C1",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -19239,6 +20009,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
             "name": "Text",
             "nameIsFixed": true,
@@ -19435,7 +20206,7 @@
       "libraryID": "9fe098f9-f7ef-4233-b715-ce056882664e",
       "originalMaster": {
         "_class": "symbolMaster",
-        "allowsOverrides": true,
+        "allowsOverrides": false,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -19444,7 +20215,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1670,
+        "changeIdentifier": 1694,
         "clippingMaskMode": 0,
         "do_objectID": "42C8E23C-1D22-4E3D-BE2C-7245DE5B2254",
         "exportOptions": {
@@ -19566,9 +20337,10 @@
                 "point": "{0, 1}"
               }
             ],
-            "resizingConstraint": 63,
+            "resizingConstraint": 61,
             "resizingType": 0,
             "rotation": 0,
+            "sharedStyleID": "EAFB266D-B8FF-455C-93D4-A24B6EB28D16",
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
@@ -19602,7 +20374,7 @@
               "contextSettings": {
                 "_class": "graphicsContextSettings",
                 "blendMode": 0,
-                "opacity": 0.25
+                "opacity": 0.13
               },
               "do_objectID": "118F2C8E-4329-478A-AE1C-4027044A14CF",
               "endMarkerType": 0,
@@ -19688,6 +20460,11 @@
         "name": "divider / ver",
         "nameIsFixed": true,
         "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "3496DBFF-B1CC-4B09-B91E-9DBFF83BF348_layerStyle"
+          }
         ],
         "presetDictionary": {
         },
@@ -19746,42 +20523,7 @@
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
-              "actions": [
-                {
-                  "delayFromTrigger": 0,
-                  "listeners": [
-                    {
-                      "event": "timer",
-                      "modelID": "eventListener_f701656c-1209-45f7-9142-9d55f18a7764",
-                      "model_class": "ADModelEventListener",
-                      "model_version": 0.1,
-                      "timerMS": 0
-                    }
-                  ],
-                  "modelID": "Transition_d37a701b-68e1-4d6d-9786-5aa95c2c8647",
-                  "model_class": "ADModelActionScriptAnimation",
-                  "model_version": 0.1,
-                  "name": "Transition (Initial -> State1)",
-                  "targetStateName": "state1",
-                  "timelines": [
-                  ],
-                  "trigger": 0
-                }
-              ],
               "defaultStateName": "state1",
-              "states": [
-                {
-                  "model_class": "ADModelViewState",
-                  "model_version": 0.1,
-                  "name": "state1"
-                },
-                {
-                  "model_class": "ADModelViewState",
-                  "model_version": 0.1,
-                  "name": "state2"
-                }
-              ],
-              "timelineType": "component",
               "variableIDSketchID": "42C8E23C-1D22-4E3D-BE2C-7245DE5B2254"
             }
           }
@@ -19796,7 +20538,7 @@
       "sourceLibraryName": "KDS2-Molecules (Master @ 0401bf7)",
       "symbolMaster": {
         "_class": "symbolMaster",
-        "allowsOverrides": true,
+        "allowsOverrides": false,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -19805,7 +20547,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1670,
+        "changeIdentifier": 1695,
         "clippingMaskMode": 0,
         "do_objectID": "42C8E23C-1D22-4E3D-BE2C-7245DE5B2254",
         "exportOptions": {
@@ -19854,6 +20596,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "3496DBFF-B1CC-4B09-B91E-9DBFF83BF348",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -19871,6 +20622,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -19917,9 +20669,10 @@
                 "point": "{0, 1}"
               }
             ],
-            "resizingConstraint": 63,
+            "resizingConstraint": 61,
             "resizingType": 0,
             "rotation": 0,
+            "sharedStyleID": "A31279C2-1DC7-44A5-B3D9-F35AE09D6B5C[193221EB-A7C2-414D-8F21-49C862313631]",
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
@@ -19953,7 +20706,7 @@
               "contextSettings": {
                 "_class": "graphicsContextSettings",
                 "blendMode": 0,
-                "opacity": 0.25
+                "opacity": 0.13
               },
               "do_objectID": "118F2C8E-4329-478A-AE1C-4027044A14CF",
               "endMarkerType": 0,
@@ -20039,6 +20792,11 @@
         "name": "divider / ver",
         "nameIsFixed": true,
         "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "3496DBFF-B1CC-4B09-B91E-9DBFF83BF348_layerStyle"
+          }
         ],
         "presetDictionary": {
         },
@@ -20097,42 +20855,7 @@
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
-              "actions": [
-                {
-                  "delayFromTrigger": 0,
-                  "listeners": [
-                    {
-                      "event": "timer",
-                      "modelID": "eventListener_f701656c-1209-45f7-9142-9d55f18a7764",
-                      "model_class": "ADModelEventListener",
-                      "model_version": 0.1,
-                      "timerMS": 0
-                    }
-                  ],
-                  "modelID": "Transition_d37a701b-68e1-4d6d-9786-5aa95c2c8647",
-                  "model_class": "ADModelActionScriptAnimation",
-                  "model_version": 0.1,
-                  "name": "Transition (Initial -> State1)",
-                  "targetStateName": "state1",
-                  "timelines": [
-                  ],
-                  "trigger": 0
-                }
-              ],
               "defaultStateName": "state1",
-              "states": [
-                {
-                  "model_class": "ADModelViewState",
-                  "model_version": 0.1,
-                  "name": "state1"
-                },
-                {
-                  "model_class": "ADModelViewState",
-                  "model_version": 0.1,
-                  "name": "state2"
-                }
-              ],
-              "timelineType": "component",
               "variableIDSketchID": "42C8E23C-1D22-4E3D-BE2C-7245DE5B2254"
             }
           }
@@ -22832,6 +23555,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "5FB69BAC-C68C-4AD5-920D-BC77FCC1E860",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -22850,12 +23582,22 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": false,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapeGroup",
                 "booleanOperation": 1,
                 "clippingMaskMode": 0,
                 "do_objectID": "DCBB877B-332E-4CD2-9837-3B457A1D58C2",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -22874,12 +23616,22 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 1,
                 "layers": [
                   {
                     "_class": "shapeGroup",
                     "booleanOperation": 0,
                     "clippingMaskMode": 0,
                     "do_objectID": "C5BD4CA6-4346-4C9D-8D33-192680039A8A",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -22898,6 +23650,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
+                    "layerListExpandedType": 1,
                     "layers": [
                       {
                         "_class": "oval",
@@ -22905,6 +23658,15 @@
                         "clippingMaskMode": 0,
                         "do_objectID": "01E43788-B00C-4EC6-BE51-EBA42B1DB818",
                         "edited": true,
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -22920,6 +23682,7 @@
                         "isFlippedVertical": false,
                         "isLocked": false,
                         "isVisible": true,
+                        "layerListExpandedType": 0,
                         "name": "Oval",
                         "nameIsFixed": false,
                         "pointRadiusBehaviour": 1,
@@ -23080,6 +23843,15 @@
                         "clippingMaskMode": 0,
                         "do_objectID": "E609B48A-1066-4A59-A22B-11BAF5D6C97A",
                         "edited": true,
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -23095,6 +23867,7 @@
                         "isFlippedVertical": false,
                         "isLocked": false,
                         "isVisible": true,
+                        "layerListExpandedType": 0,
                         "name": "Oval Copy 2",
                         "nameIsFixed": false,
                         "pointRadiusBehaviour": 1,
@@ -23361,6 +24134,15 @@
                     "booleanOperation": 0,
                     "clippingMaskMode": 0,
                     "do_objectID": "08EB58CE-F102-4ACD-BC4D-B148138D8DC7",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -23379,12 +24161,22 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
+                    "layerListExpandedType": 1,
                     "layers": [
                       {
                         "_class": "shapeGroup",
                         "booleanOperation": 1,
                         "clippingMaskMode": 0,
                         "do_objectID": "6D88B56C-0D7F-406F-A63C-A5A71085C3C5",
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -23403,6 +24195,7 @@
                         "isFlippedVertical": false,
                         "isLocked": false,
                         "isVisible": true,
+                        "layerListExpandedType": 1,
                         "layers": [
                           {
                             "_class": "oval",
@@ -23410,6 +24203,15 @@
                             "clippingMaskMode": 0,
                             "do_objectID": "36873CD0-991A-43A0-BED4-DA47DB5B14A5",
                             "edited": true,
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": false,
@@ -23425,6 +24227,7 @@
                             "isFlippedVertical": false,
                             "isLocked": false,
                             "isVisible": true,
+                            "layerListExpandedType": 0,
                             "name": "Oval",
                             "nameIsFixed": false,
                             "pointRadiusBehaviour": 1,
@@ -23585,6 +24388,15 @@
                             "clippingMaskMode": 0,
                             "do_objectID": "7283618A-5FF4-4B23-9BEE-FAF51E5A1038",
                             "edited": true,
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": false,
@@ -23600,6 +24412,7 @@
                             "isFlippedVertical": false,
                             "isLocked": false,
                             "isVisible": true,
+                            "layerListExpandedType": 0,
                             "name": "Oval Copy 2",
                             "nameIsFixed": false,
                             "pointRadiusBehaviour": 1,
@@ -23867,6 +24680,15 @@
                         "clippingMaskMode": 0,
                         "do_objectID": "BFEB633C-48F9-459F-8F25-333B288D0029",
                         "edited": false,
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -23882,6 +24704,7 @@
                         "isFlippedVertical": false,
                         "isLocked": false,
                         "isVisible": true,
+                        "layerListExpandedType": 0,
                         "name": "Oval",
                         "nameIsFixed": false,
                         "pointRadiusBehaviour": 1,
@@ -24256,6 +25079,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "E59C7FF5-1689-46C0-9DF2-8C58DE5B29DB",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -24273,6 +25105,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Rectangle",
                 "nameIsFixed": false,
                 "needsConvertionToNewRoundCorners": false,
@@ -24540,6 +25373,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "CABF0EB0-9901-4252-8739-8A8071782A81",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -24558,6 +25400,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapePath",
@@ -24565,6 +25408,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "174C6FB7-2B81-40BB-B405-0034DB9E65F7",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -24580,6 +25432,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -24874,6 +25727,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "9122D201-457C-4389-806A-277D696470A1",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -24889,6 +25751,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -25799,6 +26662,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "2D41FEB5-7799-477B-BE5E-7EE3889C909D",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -25814,6 +26686,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG Icon",
             "nameIsFixed": false,
             "pointRadiusBehaviour": 1,
@@ -26897,6 +27770,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "C07F422E-EC50-41EB-A1D9-44AC61DDCA78",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 256,
             "frame": {
               "_class": "rect",
@@ -26914,6 +27796,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -27076,6 +27959,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "14C0190C-39AE-4615-9F3A-637AF984E24D",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 256,
             "frame": {
               "_class": "rect",
@@ -27093,6 +27985,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -27254,6 +28147,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "C065BADC-8354-46A9-BFA1-406D638CDCE4",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -27269,6 +28171,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Special",
             "nameIsFixed": false,
             "overrideValues": [
@@ -28185,6 +29088,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "21B70E7D-08D0-42A3-98A6-59C3375C0280",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -28203,6 +29115,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "rectangle",
@@ -28210,6 +29123,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "8FF85384-8B57-46F1-9BE5-80AEA050BE56",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 2,
                 "frame": {
                   "_class": "rect",
@@ -28227,6 +29149,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Rectangle",
                 "nameIsFixed": false,
                 "needsConvertionToNewRoundCorners": false,
@@ -28388,6 +29311,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "A359DDE2-14FD-4C6C-99F6-3B5DF9F7B0B6",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 2,
                 "frame": {
                   "_class": "rect",
@@ -28405,6 +29337,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Rectangle Copy",
                 "nameIsFixed": false,
                 "needsConvertionToNewRoundCorners": false,
@@ -29364,6 +30297,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "B771C032-10C6-4910-B6EF-6C082C8FC746",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -29381,6 +30323,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -29543,6 +30486,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "249A3754-7D90-488E-9D5A-E1269075AD23",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -29560,6 +30512,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -30216,6 +31169,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "816AD066-7667-46B0-83F6-5A674D6ACC6E",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -30231,6 +31193,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "→ State",
             "nameIsFixed": true,
             "overrideValues": [
@@ -30294,6 +31257,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "B982A0AE-D362-4950-B823-489076DDF67C",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -30309,6 +31281,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Text & Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -30888,6 +31861,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "F6392C1E-71CC-49D1-AB67-CFFB91A34C75",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -30903,6 +31885,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "→ State",
             "nameIsFixed": true,
             "overrideValues": [
@@ -30966,6 +31949,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "38BD8F3D-6AAD-4BA9-A381-2ED65FB6CD72",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -30981,6 +31973,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -31568,6 +32561,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "961D1978-5180-46B3-BEB8-C92F44E85F03",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -31585,6 +32587,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -32438,6 +33441,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "2295922B-3F1F-4EEB-A1CC-30180A2ED856",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -32455,6 +33467,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -32617,6 +33630,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "B3ED9460-365E-4F9D-8A12-4D203FED102C",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -32634,6 +33656,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -33313,6 +34336,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "E365F03D-9301-4F09-860C-3B5427A2761E",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -33328,6 +34360,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "→ State",
             "nameIsFixed": true,
             "overrideValues": [
@@ -33391,6 +34424,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "9C52DEC6-3B97-4FC5-B44C-8AE489C9D9D1",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -33406,6 +34448,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -34042,6 +35085,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "DF0404AE-FF13-4D21-8412-1E82CBE59FFB",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -34059,6 +35111,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "img",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -34961,6 +36014,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "B771C032-10C6-4910-B6EF-6C082C8FC746",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -34978,6 +36040,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -35140,6 +36203,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "249A3754-7D90-488E-9D5A-E1269075AD23",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -35157,6 +36229,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -35429,7 +36502,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1571,
+        "changeIdentifier": 1572,
         "clippingMaskMode": 0,
         "do_objectID": "EEF0A06B-E2B2-4CD0-8888-951DAD67431E",
         "exportOptions": {
@@ -36391,7 +37464,7 @@
                 "verticalSpacing": 0
               }
             ],
-            "name": "Group",
+            "name": "Tabs",
             "nameIsFixed": false,
             "resizingConstraint": 33,
             "resizingType": 0,
@@ -36456,22 +37529,7 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "180BE37C-7197-4333-8B2E-B60CAE8C2569_symbolID"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "35C93FE4-EA1B-4D65-B94D-A853C5050524_symbolID"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "37401A5E-22DA-4888-A8ED-3B949B269D5B_symbolID"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "77BD872D-0609-402B-8551-F982AF9E2B40_symbolID"
+            "overrideName": "98DD4A0B-1CA8-4F2F-B756-1089651BEC7B_symbolID"
           },
           {
             "_class": "MSImmutableOverrideProperty",
@@ -36481,7 +37539,22 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "98DD4A0B-1CA8-4F2F-B756-1089651BEC7B_symbolID"
+            "overrideName": "F9E66D91-F71A-4F14-A84B-8CBC5A5D3DD8_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "180BE37C-7197-4333-8B2E-B60CAE8C2569_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "37401A5E-22DA-4888-A8ED-3B949B269D5B_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "35C93FE4-EA1B-4D65-B94D-A853C5050524_symbolID"
           },
           {
             "_class": "MSImmutableOverrideProperty",
@@ -36491,12 +37564,12 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "F1942024-5B2D-4B59-A482-72F3AEBF0079_symbolID"
+            "overrideName": "77BD872D-0609-402B-8551-F982AF9E2B40_symbolID"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "F9E66D91-F71A-4F14-A84B-8CBC5A5D3DD8_symbolID"
+            "overrideName": "F1942024-5B2D-4B59-A482-72F3AEBF0079_symbolID"
           }
         ],
         "presetDictionary": {
@@ -36578,7 +37651,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1581,
+        "changeIdentifier": 1582,
         "clippingMaskMode": 0,
         "do_objectID": "EEF0A06B-E2B2-4CD0-8888-951DAD67431E",
         "exportOptions": {
@@ -36630,6 +37703,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "30AF6D80-FA8A-4D28-89E5-58B312C70D09",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -36648,12 +37730,22 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "layers": [
               {
                 "_class": "symbolInstance",
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "37401A5E-22DA-4888-A8ED-3B949B269D5B",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -36669,6 +37761,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 10",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -36732,6 +37825,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "F9E66D91-F71A-4F14-A84B-8CBC5A5D3DD8",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -36747,6 +37849,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 9",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -36810,6 +37913,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "77BD872D-0609-402B-8551-F982AF9E2B40",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -36825,6 +37937,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 8",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -36888,6 +38001,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "35C93FE4-EA1B-4D65-B94D-A853C5050524",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -36903,6 +38025,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 7",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -36966,6 +38089,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "F1942024-5B2D-4B59-A482-72F3AEBF0079",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -36981,6 +38113,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 6",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -37044,6 +38177,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "98DD4A0B-1CA8-4F2F-B756-1089651BEC7B",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -37059,6 +38201,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 5",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -37122,6 +38265,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "7FBA0852-0090-46CF-83D8-4AD9484919CE",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -37137,6 +38289,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 4",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -37200,6 +38353,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "180BE37C-7197-4333-8B2E-B60CAE8C2569",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -37215,6 +38377,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 3",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -37278,6 +38441,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "DA9D0F11-53D0-4B3A-BF15-D7F1DA2E8B30",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -37293,6 +38465,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 2",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -37356,6 +38529,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "0A114F8C-F6E9-4339-BBCD-50E82619FFBA",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -37371,6 +38553,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Tab - 1",
                 "nameIsFixed": true,
                 "overrideValues": [
@@ -37430,7 +38613,7 @@
                 "verticalSpacing": 0
               }
             ],
-            "name": "Group",
+            "name": "Tabs",
             "nameIsFixed": false,
             "resizingConstraint": 33,
             "resizingType": 0,
@@ -37495,22 +38678,7 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "180BE37C-7197-4333-8B2E-B60CAE8C2569_symbolID"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "35C93FE4-EA1B-4D65-B94D-A853C5050524_symbolID"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "37401A5E-22DA-4888-A8ED-3B949B269D5B_symbolID"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": true,
-            "overrideName": "77BD872D-0609-402B-8551-F982AF9E2B40_symbolID"
+            "overrideName": "98DD4A0B-1CA8-4F2F-B756-1089651BEC7B_symbolID"
           },
           {
             "_class": "MSImmutableOverrideProperty",
@@ -37520,7 +38688,22 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "98DD4A0B-1CA8-4F2F-B756-1089651BEC7B_symbolID"
+            "overrideName": "F9E66D91-F71A-4F14-A84B-8CBC5A5D3DD8_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "180BE37C-7197-4333-8B2E-B60CAE8C2569_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "37401A5E-22DA-4888-A8ED-3B949B269D5B_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "35C93FE4-EA1B-4D65-B94D-A853C5050524_symbolID"
           },
           {
             "_class": "MSImmutableOverrideProperty",
@@ -37530,12 +38713,12 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "F1942024-5B2D-4B59-A482-72F3AEBF0079_symbolID"
+            "overrideName": "77BD872D-0609-402B-8551-F982AF9E2B40_symbolID"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": true,
-            "overrideName": "F9E66D91-F71A-4F14-A84B-8CBC5A5D3DD8_symbolID"
+            "overrideName": "F1942024-5B2D-4B59-A482-72F3AEBF0079_symbolID"
           }
         ],
         "presetDictionary": {
@@ -38016,6 +39199,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "8FCD5792-492B-452D-8E00-AE5A19F5648F",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -38031,6 +39223,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Base",
             "nameIsFixed": true,
             "overrideValues": [
@@ -38094,6 +39287,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "CDDB1E0F-E3ED-41E2-A0D1-70E279F693A6",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -38109,6 +39311,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Text & Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -38824,6 +40027,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "F80C0DC6-44EF-4FFF-B880-01191E6A6D77",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -38839,6 +40051,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": false,
             "overrideValues": [
@@ -38939,6 +40152,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "FDF6F74D-B2FB-48B7-B70D-9019D5C45464",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -38954,6 +40176,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
             "name": "Input",
             "nameIsFixed": true,
@@ -39050,6 +40273,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "BB7E0DF2-5C20-4038-BEEE-2981B5791FE3",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -39065,6 +40297,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Button",
             "nameIsFixed": false,
             "overrideValues": [
@@ -40344,6 +41577,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "92DFB16E-4A72-4817-8ACE-0A28FBDC6169",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -40362,6 +41604,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 1,
             "layers": [
               {
                 "_class": "shapePath",
@@ -40369,6 +41612,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "798E98DC-9690-47BA-B9EA-41251743C0F9",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -40384,6 +41636,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -40624,6 +41877,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "59235853-8530-4956-87EF-D769736AFA30",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -40639,6 +41901,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -40879,6 +42142,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "7DBCA076-9C91-4AA6-994C-98AFF722086C",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -40894,6 +42166,7 @@
                 "isFlippedVertical": false,
                 "isLocked": false,
                 "isVisible": true,
+                "layerListExpandedType": 0,
                 "name": "Path",
                 "nameIsFixed": false,
                 "pointRadiusBehaviour": 1,
@@ -41706,6 +42979,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "57808AB5-62C9-4173-90E5-CD09F2E0FE22",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -41721,6 +43003,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG Icon",
             "nameIsFixed": false,
             "pointRadiusBehaviour": 1,
@@ -42674,6 +43957,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "C31B498C-7C1D-4227-B3CB-07650E4E7F6C",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -42691,6 +43983,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -42853,6 +44146,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "60346CE2-A28A-415E-903B-CCF6BF91DC0D",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -42870,6 +44172,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ Focus",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -43031,6 +44334,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "FB66683F-2CE4-424B-BD68-AFCF5DDBA45C",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -43046,6 +44358,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Special",
             "nameIsFixed": false,
             "overrideValues": [
@@ -44059,6 +45372,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "2D41FEB5-7799-477B-BE5E-7EE3889C909D",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -44074,6 +45396,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG Icon",
             "nameIsFixed": false,
             "pointRadiusBehaviour": 1,
@@ -44924,6 +46247,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "85AA25C0-BA29-48AE-B67A-83548BCE3D0B",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -44941,6 +46273,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "img",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -45253,7 +46586,7 @@
       "libraryID": "9fe098f9-f7ef-4233-b715-ce056882664e",
       "originalMaster": {
         "_class": "symbolMaster",
-        "allowsOverrides": true,
+        "allowsOverrides": false,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -45262,7 +46595,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1678,
+        "changeIdentifier": 1705,
         "clippingMaskMode": 0,
         "do_objectID": "11DCA1A4-F773-42B4-AD18-7FD5957B905F",
         "exportOptions": {
@@ -45384,9 +46717,10 @@
                 "point": "{0, 1}"
               }
             ],
-            "resizingConstraint": 63,
+            "resizingConstraint": 47,
             "resizingType": 0,
             "rotation": 0,
+            "sharedStyleID": "EAFB266D-B8FF-455C-93D4-A24B6EB28D16",
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
@@ -45420,7 +46754,7 @@
               "contextSettings": {
                 "_class": "graphicsContextSettings",
                 "blendMode": 0,
-                "opacity": 0.25
+                "opacity": 0.13
               },
               "do_objectID": "8F499A32-6B72-4065-8B98-4B5C902BA1EF",
               "endMarkerType": 0,
@@ -45506,6 +46840,11 @@
         "name": "divider / hor",
         "nameIsFixed": true,
         "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "9D16E37A-2907-4FEA-8D3A-5C1F7E3D9FEF_layerStyle"
+          }
         ],
         "presetDictionary": {
         },
@@ -45564,42 +46903,7 @@
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
-              "actions": [
-                {
-                  "delayFromTrigger": 0,
-                  "listeners": [
-                    {
-                      "event": "timer",
-                      "modelID": "eventListener_f701656c-1209-45f7-9142-9d55f18a7764",
-                      "model_class": "ADModelEventListener",
-                      "model_version": 0.1,
-                      "timerMS": 0
-                    }
-                  ],
-                  "modelID": "Transition_d37a701b-68e1-4d6d-9786-5aa95c2c8647",
-                  "model_class": "ADModelActionScriptAnimation",
-                  "model_version": 0.1,
-                  "name": "Transition (Initial -> State1)",
-                  "targetStateName": "state1",
-                  "timelines": [
-                  ],
-                  "trigger": 0
-                }
-              ],
               "defaultStateName": "state1",
-              "states": [
-                {
-                  "model_class": "ADModelViewState",
-                  "model_version": 0.1,
-                  "name": "state1"
-                },
-                {
-                  "model_class": "ADModelViewState",
-                  "model_version": 0.1,
-                  "name": "state2"
-                }
-              ],
-              "timelineType": "component",
               "variableIDSketchID": "11DCA1A4-F773-42B4-AD18-7FD5957B905F"
             }
           }
@@ -45614,7 +46918,7 @@
       "sourceLibraryName": "KDS2-Molecules (Master @ 0401bf7)",
       "symbolMaster": {
         "_class": "symbolMaster",
-        "allowsOverrides": true,
+        "allowsOverrides": false,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -45623,7 +46927,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1678,
+        "changeIdentifier": 1706,
         "clippingMaskMode": 0,
         "do_objectID": "11DCA1A4-F773-42B4-AD18-7FD5957B905F",
         "exportOptions": {
@@ -45672,6 +46976,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "9D16E37A-2907-4FEA-8D3A-5C1F7E3D9FEF",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -45689,6 +47002,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "➠ BG",
             "nameIsFixed": true,
             "needsConvertionToNewRoundCorners": false,
@@ -45735,9 +47049,10 @@
                 "point": "{0, 1}"
               }
             ],
-            "resizingConstraint": 63,
+            "resizingConstraint": 47,
             "resizingType": 0,
             "rotation": 0,
+            "sharedStyleID": "9D61CEE0-41C6-473F-81A0-69FE4335EDBA[193221EB-A7C2-414D-8F21-49C862313631]",
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
@@ -45771,7 +47086,7 @@
               "contextSettings": {
                 "_class": "graphicsContextSettings",
                 "blendMode": 0,
-                "opacity": 0.25
+                "opacity": 0.13
               },
               "do_objectID": "8F499A32-6B72-4065-8B98-4B5C902BA1EF",
               "endMarkerType": 0,
@@ -45857,6 +47172,11 @@
         "name": "divider / hor",
         "nameIsFixed": true,
         "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "9D16E37A-2907-4FEA-8D3A-5C1F7E3D9FEF_layerStyle"
+          }
         ],
         "presetDictionary": {
         },
@@ -45915,42 +47235,7 @@
         "userInfo": {
           "com.animaapp.stc-sketch-plugin": {
             "kModelPropertiesKey": {
-              "actions": [
-                {
-                  "delayFromTrigger": 0,
-                  "listeners": [
-                    {
-                      "event": "timer",
-                      "modelID": "eventListener_f701656c-1209-45f7-9142-9d55f18a7764",
-                      "model_class": "ADModelEventListener",
-                      "model_version": 0.1,
-                      "timerMS": 0
-                    }
-                  ],
-                  "modelID": "Transition_d37a701b-68e1-4d6d-9786-5aa95c2c8647",
-                  "model_class": "ADModelActionScriptAnimation",
-                  "model_version": 0.1,
-                  "name": "Transition (Initial -> State1)",
-                  "targetStateName": "state1",
-                  "timelines": [
-                  ],
-                  "trigger": 0
-                }
-              ],
               "defaultStateName": "state1",
-              "states": [
-                {
-                  "model_class": "ADModelViewState",
-                  "model_version": 0.1,
-                  "name": "state1"
-                },
-                {
-                  "model_class": "ADModelViewState",
-                  "model_version": 0.1,
-                  "name": "state2"
-                }
-              ],
-              "timelineType": "component",
               "variableIDSketchID": "11DCA1A4-F773-42B4-AD18-7FD5957B905F"
             }
           }
@@ -46454,6 +47739,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "141B2BCA-CABA-44F4-9877-676A57A65658",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -46469,6 +47763,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -46590,6 +47885,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "030CA1CD-5B40-4619-9626-38BAB158E284",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -46605,6 +47909,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
             "name": "Text",
             "nameIsFixed": true,
@@ -47292,6 +48597,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "74B6C1E6-183F-4ACC-80E9-465987E4648C",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -47307,6 +48621,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -47428,6 +48743,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "65D726EC-B7D6-4754-84B6-8DBFBA92B498",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -47443,6 +48767,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
             "name": "Text",
             "nameIsFixed": true,
@@ -48059,6 +49384,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "10B7D9FB-AC0F-49C4-9616-56C97DD117C9",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -48074,6 +49408,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Base",
             "nameIsFixed": true,
             "overrideValues": [
@@ -48142,6 +49477,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "E7944FFC-C279-4391-806F-E59263BA6F32",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -48157,6 +49501,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
+            "layerListExpandedType": 0,
             "name": "Text & Icon",
             "nameIsFixed": false,
             "overrideValues": [
@@ -49991,11 +51336,17 @@
     ]
   },
   "meta": {
-    "appVersion": "66.1",
-    "version": 130
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
   },
   "pages": [
-    "Page 1",
+    "Profile page",
     "Symbols"
-  ]
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
 }
